@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ttiago7.github.io/vibeuplive/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ttiago7.github.io/vibeuplive/static/js/main.454a55a2.chunk.js",
+    "main.js.map": "/ttiago7.github.io/vibeuplive/static/js/main.454a55a2.chunk.js.map",
+    "runtime-main.js": "/ttiago7.github.io/vibeuplive/static/js/runtime-main.821e8d4e.js",
+    "runtime-main.js.map": "/ttiago7.github.io/vibeuplive/static/js/runtime-main.821e8d4e.js.map",
+    "static/js/2.0dfbf83d.chunk.js": "/ttiago7.github.io/vibeuplive/static/js/2.0dfbf83d.chunk.js",
+    "static/js/2.0dfbf83d.chunk.js.map": "/ttiago7.github.io/vibeuplive/static/js/2.0dfbf83d.chunk.js.map",
+    "static/js/3.beeaa7b3.chunk.js": "/ttiago7.github.io/vibeuplive/static/js/3.beeaa7b3.chunk.js",
+    "static/js/3.beeaa7b3.chunk.js.map": "/ttiago7.github.io/vibeuplive/static/js/3.beeaa7b3.chunk.js.map",
+    "index.html": "/ttiago7.github.io/vibeuplive/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ttiago7.github.io/vibeuplive/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0dfbf83d.chunk.js.LICENSE.txt": "/ttiago7.github.io/vibeuplive/static/js/2.0dfbf83d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ttiago7.github.io/vibeuplive/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.821e8d4e.js",
+    "static/js/2.0dfbf83d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.454a55a2.chunk.js"
+  ]
+}
